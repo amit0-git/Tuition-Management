@@ -1,6 +1,6 @@
 #Tuition Management App
 #Author:-Amit Verma
-#Teacher:-Ramesh Bhatt
+#Email:- root.avanti@gmail.com
 #Date=23-11-2020
 
 try:
