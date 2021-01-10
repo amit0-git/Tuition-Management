@@ -1,0 +1,13 @@
+#Note:- Create a tuition database and run the program.
+#Tables are created during program runtime.
+#database=mysql
+
+host='localhost'
+database='tuition'
+user='app_admin'
+password='app_admin@12345'
+
+###Create user
+CREATE DATABASE tuition;
+CREATE USER "app_admin"@localhost IDENTIFIED BY "app_admin@12345";
+GRANT ALL PRIVILEGES ON tuition.* TO "app_admin"@localhost;
