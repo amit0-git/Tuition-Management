@@ -1,5 +1,6 @@
 #Tuition Management App
 #Author:-Amit Verma
+#Email:- root.avanti@gmail.com
 #Date=23-11-2020
 
 try:
